@@ -1,0 +1,15 @@
+{
+  "name": "http-lecture",
+  "version": "1.0.0",
+  "description": "giphy gifs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Priscilla G <priscillayg23@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
