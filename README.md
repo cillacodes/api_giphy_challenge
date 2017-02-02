@@ -5,4 +5,4 @@
 *********************
 
 A Giphy application using the Giphy API!
-Click the button to load a random gif or search for a gif instead. Gif it out. 
+Click the button to generate a random gif or search for a gif instead. Gif it out. 
